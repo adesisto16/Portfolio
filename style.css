@@ -2,9 +2,9 @@
    LIGHT THEME — EDIT THESE 5
    ============================= */
 :root {
-  --bg: #EFDDFD;
+  --bg: #ffffff;
   /* page background */
-  --text: #210934;
+  --text: #000000;
   /* main text */
   --surface: #f0eaff;
   /* cards, boxes, list items */
